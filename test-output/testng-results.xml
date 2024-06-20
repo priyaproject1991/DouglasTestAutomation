@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T21:59:18 CEST" name="Default suite" finished-at="2024-06-20T21:59:50 CEST" duration-ms="32562">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T21:59:18 CEST" name="Default test" finished-at="2024-06-20T21:59:50 CEST" duration-ms="32562">
+      <class name="testcase.PerfumeFilterTestcase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:19 CEST" name="setup" finished-at="2024-06-20T21:59:24 CEST" duration-ms="4858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="parfum(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:24 CEST" name="parfum" data-provider="sitdata" finished-at="2024-06-20T21:59:36 CEST" duration-ms="11464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sales]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Douglas collection]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Beschermend]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parfum -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:36 CEST" name="end" finished-at="2024-06-20T21:59:36 CEST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:36 CEST" name="setup" finished-at="2024-06-20T21:59:38 CEST" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="parfum(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:38 CEST" name="parfum" data-provider="sitdata" finished-at="2024-06-20T21:59:50 CEST" duration-ms="12264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nieuw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Versace]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Verzorgend]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parfum -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testcase.PerfumeFilterTestcase@3e8c3cb]" started-at="2024-06-20T21:59:50 CEST" name="end" finished-at="2024-06-20T21:59:50 CEST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testcase.PerfumeFilterTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
